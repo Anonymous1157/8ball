@@ -1,0 +1,9 @@
+8ball
+===
+
+Toy program that prints a line of text answering a hypothetical yes/no question.
+
+ - Attempts to be clever by reading /dev/random, successfully fails if it can't.
+ - Expects your "make" implementation to have an automagical rule for C code. Most do. I genuinely don't know of one that doesn't.
+ - Featuring 100% more Malcolm In The Middle references than other similar programs.
+ - Contains no butts.
